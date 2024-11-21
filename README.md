@@ -12,6 +12,8 @@
 
 - [The Goals of This Project](#the-goals-of-this-project)
 - [Plan](#plan)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/meysamhadeli/shop-golang-microservices)
 - [Technologies - Libraries](#technologies---libraries)
 - [The Domain and Bounded Context - Service Boundary](#the-domain-and-bounded-context---service-boundary)
 - [Structure of Project](#structure-of-project)
